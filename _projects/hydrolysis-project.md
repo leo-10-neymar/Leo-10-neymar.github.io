@@ -14,7 +14,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/hydrolysis.png
+image: /img/projects/mam.webp
 last-updated: 2020-01-23
 ---
 
