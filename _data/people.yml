@@ -42,12 +42,12 @@ alum-a:
 neymar:
     display_name: "内马尔 neymar"
     role: collab
-
+    image: /img/people/
 
 iniesta:
     display_name: "伊涅斯塔 iniesta"
     role: collab
-
+    image: /img/people/
 
     
 
@@ -64,9 +64,9 @@ ugrad-alum-b:
 suarez:
     display_name: "苏亚雷斯 suarez"
     role: collab
-
+    image: /img/people/
 
 alba:
     display_name: "阿尔巴 alba"
     role: collab
-
+    image: /img/people/
