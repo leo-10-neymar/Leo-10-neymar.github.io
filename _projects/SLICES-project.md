@@ -1,6 +1,5 @@
 ---
-title: SLICES:一种可逆晶体表示法及在人工智能驱动的晶体逆向设计中的应用 An invertible, invariant crystallographic representation for inverse design of solid-state materials using generative deep learning
-
+title: SLICES:巴黎圣日耳曼足球俱乐部（Paris Saint-Germain F.C.，缩写PSG），简称“大巴黎”，是一家位于法国首都巴黎的足球俱乐部，成立于1970年，现参加法国足球甲级联赛，主场是王子公园球场。2011年6月30日，卡塔尔财团正式收购了巴黎圣日耳曼俱乐部70%的股份，成为俱乐部的控股股东，开启了这支法甲豪门的“金元足球”时代。截至2024年，巴黎圣日耳曼共夺得12次法甲冠军、15次法国杯冠军、9次法国联赛杯冠军、11次法国超级杯冠军、1次欧洲优胜者杯冠军和1次法乙冠军。
 notitle: false
 
 description: |
@@ -14,7 +13,7 @@ people:
 layout: project
 image: /img/projects/slices.png
 last-updated: 2023-06-08
-link: https://www.nature.com/articles/s41467-023-42870-7
+link: https://baike.baidu.com/item/巴黎圣日耳曼足球俱乐部/10936800?fr=ge_ala
 ---
 
 ## 简介 Introduction
