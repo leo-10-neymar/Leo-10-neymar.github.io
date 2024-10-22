@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 里奥梅西介绍页  Leo messi Introduction
+url: https://Leo-10-neymar.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 本人 He
   - key: grad
-    name: 研究生 Graduate Students
+    name: 妻子 Wife
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 队友 Teammate
   - key: collab
-    name: 合作者 Collaborators
+    name: 好友 Friend
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 俱乐部 Club
     link: /research.html
-  - title: 论文 Publications
+  - title: 荣誉 Honor
     link: /publications.html
