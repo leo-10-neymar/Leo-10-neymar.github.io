@@ -14,38 +14,16 @@ leo messi:
     image: /img/people/scott.png
     bio: aka Cyclops
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
     
 
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+Antonella:
+    display_name: "安东内拉 Antonella"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/anniu.webp
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
-    role: grad
-    image: /img/people/kedeng.jpg
-
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
-
-
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
 chenxi:
