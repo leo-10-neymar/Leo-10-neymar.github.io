@@ -20,14 +20,32 @@ wolverine:
     github: wolverine
     role: postdoc
 
+    
+
 
 
     
-Antonella:
-    display_name: "安东内拉 Antonella"
+bizhu:
+    display_name: "张碧竹 Bizhu Zhang"
     role: grad
-    image: /img/people/anniu.webp
+    image: /img/people/bizhu.jpg
 
+kedeng:
+    display_name: "吴克登 Kedeng Wu"
+    role: grad
+    image: /img/people/kedeng.jpg
+
+storm:
+    display_name: "虚位以待  We need you!"
+    role: grad
+    image: /img/people/need.png
+
+
+
+alum-a:
+    display_name: "Alum A"
+    role: alum
+    bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
 chenxi:
