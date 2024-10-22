@@ -15,8 +15,6 @@ roles:
     name: 本人 He
   - key: grad
     name: 妻子 Wife
-  - key: ugrad
-    name: 队友 Teammate
   - key: collab
     name: 好友 Friend
 
