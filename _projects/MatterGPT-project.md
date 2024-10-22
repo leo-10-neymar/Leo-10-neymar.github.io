@@ -11,13 +11,8 @@ people:
 layout: project
 image: /img/projects/barca.jpeg
 last-updated: 2024-08-08
-link: https://arxiv.org/abs/2408.07608
+link: https://baike.baidu.com/item/巴塞罗那足球俱乐部/2431429?fr=ge_ala
 ---
 
 ## 简介 Introduction
-Features
-Inverse Design from Properties to Structures: Input target band gap and formation energy to generate crystal structures that match these properties.
-SLICES Encoding: Utilizes SLICES (Simplified Line-Input Crystal-Encoding System) encoding to represent crystal structures.
-Visualization: Generated structures can be intuitively presented through 3D visualization.
-Structure Analysis: Provides detailed information about the generated structures, including chemical formula, lattice parameters, etc.
-CIF File Export: Download Crystallographic Information Files (CIF) of generated structures for further analysis and use.
+巴塞罗那足球俱乐部于1899年11月29日正式成立，1929年参加首届西班牙联赛并获得冠军。巴塞罗那在西班牙内战期间曾遭遇挫折，在战后迎来复兴。1948年至1949年，巴萨在乌拉圭人恩里克·费尔南德斯的带领下连续两届夺得西班牙足球甲级联赛冠军。1951/52赛季，巴塞罗那在由巴罗萨、塞萨尔·罗德里格斯、库巴拉、莫雷诺、曼科恩组成的锋线率领下成为了联赛、西班牙杯、拉丁杯、马丁杯、罗西杯冠军的五冠王。巴塞罗那先后经历了梦一王朝和梦二王朝时期，2009年在瓜迪奥拉的带领下获得了六冠王称号，标志着巴萨梦三王朝的诞生。2023年赛季，巴塞罗那获西甲联赛亚军。
