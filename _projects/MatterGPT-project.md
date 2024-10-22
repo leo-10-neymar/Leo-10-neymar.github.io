@@ -1,7 +1,5 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
-
-notitle: false
+title: 巴塞罗那足球俱乐部（FC Barcelona），昵称“巴萨（Barça）”，是一家位于西班牙巴塞罗那市的足球俱乐部，于1899年11月29日由瑞士人汉斯·甘伯创立。球队主场为诺坎普球场，征战于西班牙足球甲级联赛。巴塞罗那是西班牙足球甲级联赛传统豪门之一，在西班牙国内共赢得27次西甲联赛冠军、31次国王杯（在国王杯历史上高居榜首）、14座西班牙超级杯、2座西班牙联赛杯；在国际上，共赢得了5座欧冠奖杯、4座欧洲优胜者杯、3座国际城市博览会杯、5座欧洲超级杯和3座世俱杯。在IFFHS国际俱乐部排行榜中，巴萨在1997年、2009年、2011年、2012年均排名第一位。
 
 description: |
 
