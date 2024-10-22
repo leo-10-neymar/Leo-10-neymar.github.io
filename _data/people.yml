@@ -14,7 +14,12 @@ leo messi:
     image: /img/people/scott.png
     bio: aka Cyclops
 
-    
+wolverine:
+    display_name: "Wolverine"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    github: wolverine
+    role: postdoc
+
 
 
 
