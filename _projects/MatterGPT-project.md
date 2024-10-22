@@ -4,7 +4,7 @@ title: 巴塞罗那足球俱乐部（FC Barcelona），昵称“巴萨（Barça�
 description: |
 
 people:
-  - chenyan
+  - leo messi
   - profx
   - chenxi
 
