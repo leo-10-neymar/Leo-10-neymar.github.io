@@ -11,7 +11,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/slices.png
+image: /img/projects/paris.webp
 last-updated: 2023-06-08
 link: https://baike.baidu.com/item/巴黎圣日耳曼足球俱乐部/10936800?fr=ge_ala
 ---
