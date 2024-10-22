@@ -8,7 +8,8 @@ leo messi:
     image: /img/people/goat.webp
     bio: 最好的足球运动员  Best Football Player
     webpage: "https://baike.baidu.com/item/利昂内尔·梅西/3965248?fr=ge_ala#2-1"    
-    scott:
+    
+scott:
     display_name: "Scott Summers"
     role: staff
     image: /img/people/scott.png
