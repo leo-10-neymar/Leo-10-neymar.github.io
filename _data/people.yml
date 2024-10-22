@@ -26,20 +26,10 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+Antonella :
+    display_name: "安东内拉 Antonella "
     role: grad
-    image: /img/people/bizhu.jpg
-
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
-    role: grad
-    image: /img/people/kedeng.jpg
-
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
+    image: /img/people/anniu.webp
 
 
 
@@ -49,38 +39,16 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+neymar:
+    display_name: "内马尔 neymar"
     role: collab
 
 
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+iniesta:
+    display_name: "伊涅斯塔 iniesta"
     role: collab
 
-xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
-    role: collab
-    
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
-    role: collab
 
-chenyan:
-    display_name: "陈炎 Yan Chen"
-    role: collab
-    
-juzheng:
-    display_name: "宋居正 Juzheng Song"
-    role: collab
-
-yayun:
-    display_name: "张亚运 Yayun Zhang"
-    role: collab
-
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
-    role: collab
     
 
 
@@ -91,3 +59,14 @@ ugrad-alum-a:
 ugrad-alum-b:
     display_name: "Past Ugrad Student B With Long Name"
     role: ugrad-alum
+
+
+suarez:
+    display_name: "苏亚雷斯 suarez"
+    role: collab
+
+
+alba:
+    display_name: "阿尔巴 alba"
+    role: collab
+
