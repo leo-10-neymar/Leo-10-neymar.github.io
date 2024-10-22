@@ -43,14 +43,15 @@ neymar:
     display_name: "内马尔 neymar"
     role: collab
     image: /img/people/neymar.jpeg
+    bio: 巴西足球天才  Brazilian football talent
+    webpage: "https://baike.baidu.com/item/内马尔·达·席尔瓦·桑托斯·儒尼奥尔/13024110?fr=ge_ala"
 
 iniesta:
     display_name: "伊涅斯塔 iniesta"
     role: collab
     image: /img/people/iniesta.png
-
-    
-
+    bio: 西班牙队的大脑  The brains of the Spanish team
+    webpage: "https://baike.baidu.com/item/安德雷斯·伊涅斯塔?fromtitle=伊涅斯塔&fromid=3071907&fromModule=lemma_search-box"
 
 ugrad-alum-a:
     display_name: "Past Ugrad A"
@@ -65,8 +66,12 @@ suarez:
     display_name: "苏亚雷斯 suarez"
     role: collab
     image: /img/people/suarez.webp
+    bio: 乌拉圭神锋  Uruguay forwards
+    webpage: "https://baike.baidu.com/item/路易斯·苏亚雷斯/8012406?fromtitle=苏亚雷斯&fromid=2115754"    
 
 alba:
     display_name: "阿尔巴 alba"
     role: collab
     image: /img/people/alba.webp
+    bio: 西班牙后卫  Spanish defenders
+    webpage: "https://baike.baidu.com/item/霍尔迪·阿尔瓦/2371457?fr=ge_ala"
