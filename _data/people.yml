@@ -6,7 +6,7 @@ leo messi:
     github: Leo-10-neymar
     role: faculty
     image: /img/people/goat.webp
-    bio: 最好的足球运动员  Best Football Player
+    bio: 阿根廷足球运动员  Argentine footballers
     webpage: "https://baike.baidu.com/item/利昂内尔·梅西/3965248?fr=ge_ala#2-1"    
     
 scott:
@@ -30,8 +30,8 @@ Antonella :
     display_name: "安东内拉 Antonella "
     role: grad
     image: /img/people/anniu.webp
-
-
+    bio: 梅西的妻子  Messi's wife
+    webpage: "https://baike.baidu.com/item/安东内拉·罗库索/54758632?fr=ge_ala"
 
 alum-a:
     display_name: "Alum A"
